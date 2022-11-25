@@ -1,0 +1,23 @@
+body{
+    background-image: url(NBHD_group.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    font-family: sans-serif;
+    font-size: xx-large;
+
+}
+.nav-link {
+text-decoration: none;
+
+}
+
+.hola {
+    text-align: center;
+}
+
+.buenas{
+    display:block;
+    margin:auto;
+    }
